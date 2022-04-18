@@ -1,4 +1,4 @@
-# CodeMQ
+# RabbitMQ
 
 A simple example showing how to integrate RabbitMQ with an ASP.NET Web API.<br>
 Assuming that you've got docker installed and you've started the docker container for RabbitMQ as shown below
